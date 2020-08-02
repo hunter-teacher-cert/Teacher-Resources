@@ -3,7 +3,7 @@
 ** Sample Lessons and Units
 
   - [[https://github.com/hunter-teacher-cert/summer-2020-topics-project-data-mining][Data Mining]]
-  - [[https://github.com/hunter-teacher-cert/summer-2020-topics-project-public-key-encryption][Public Key Encryption]
+  - [[https://github.com/hunter-teacher-cert/summer-2020-topics-project-public-key-encryption][Public Key Encryption]]
   - [[https://github.com/hunter-teacher-cert/summer-2020-topics-project-kp-duty][Blockchain]]
   - [[https://github.com/hunter-teacher-cert/summer-2020-topics-project-natural-language-processing][Natural Language Processing]]
   - [[https://github.com/hunter-teacher-cert/summer-2020-topics-project-jam_code][Classic AI - Decision Trees]]
